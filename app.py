@@ -3,7 +3,7 @@ import joblib
 
 
 # Load trained model
-model = joblib.load("e_tongue_model.pkl")
+model = joblib.load("e_tongue_model(1).pkl")
 
 
 
